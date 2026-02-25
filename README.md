@@ -1,3 +1,4 @@
+To run server: npm run dev
 # Two Sites Full Stack Project
 
 Apps:
